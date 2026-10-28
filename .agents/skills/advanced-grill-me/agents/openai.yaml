@@ -1,0 +1,4 @@
+interface:
+  display_name: "Advanced Grill Me"
+  short_description: "Stress-test a feature with evidence-based, resumable design interviews"
+  default_prompt: "Use $advanced-grill-me to interrogate my feature idea. Inspect relevant code first, then ask the highest-impact decision questions. Do not implement code."

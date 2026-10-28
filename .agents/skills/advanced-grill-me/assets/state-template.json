@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "session_id": "REPLACE_WITH_SESSION_ID",
+  "topic": "REPLACE_WITH_FEATURE_OR_PLAN",
+  "mode": "discovery",
+  "status": "interviewing",
+  "repository_ref": "",
+  "last_updated": "",
+  "decisions": [],
+  "open_questions": [],
+  "risks": [],
+  "evidence": [],
+  "next_action": "Identify ready decisions and ask the first round",
+  "user_approved": false
+}

@@ -1,0 +1,11 @@
+[agents.planner]
+description = "Plans implementation tasks"
+config_file = "agents/planner.toml"
+
+[agents.implementer]
+description = "Implements planned changes"
+config_file = "agents/implementer.toml"
+
+[agents.verifier]
+description = "Verifies implementation correctness"
+config_file = "agents/verifier.toml"
